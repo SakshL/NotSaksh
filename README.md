@@ -12,7 +12,6 @@
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at Developing Websites / Apps
-- :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Coding ideas.
 - 📫 How to reach me: notsakshy@gmail.com
 - 😄 Pronouns: Saksh, NotSaksh, Sakshyam.
