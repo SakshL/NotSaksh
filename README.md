@@ -40,6 +40,10 @@
 <br />
 <br />
 
+## YouTube Stats
+![Youtube Channel](https://img.shields.io/youtube/channel/UCCSxnxwMXQHTAIjVjaAg7CQ?style=for-the-badge&logo=youtube)
+![Youtube Subcribers](https://img.shields.io/youtube/channel/subscribers/UCCSxnxwMXQHTAIjVjaAg7CQ?style=for-the-badge&logo=youtube)
+
 ## Github Stats  
 
 <div align="center">
