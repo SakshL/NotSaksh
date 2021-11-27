@@ -1,23 +1,22 @@
 <!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
 ## Hi! I'm NotSaksh <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px">
+
+:mailbox: Reach me out!
+
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/notbeluga)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=NotSaksh)
 ![Youtube Subcribers](https://img.shields.io/youtube/channel/subscribers/UCCSxnxwMXQHTAIjVjaAg7CQ?style=for-the-badge&logo=youtube)
 
-:mailbox: Reach me out!
-
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
-
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’m currently working at Developing Websites / Apps
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 🤔 I’m looking for help with Outstanding Coding ideas.
+- 📫 How to reach me: notsakshy@gmail.com
+- 😄 Pronouns: Saksh, NotSaksh, Sakshyam.
+- ⚡ Fun fact: I play games and Love Coding.
 
 
 ### Languages and Tools:
