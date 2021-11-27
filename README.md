@@ -1,7 +1,7 @@
 <!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
 ## Hi! I'm NotSaksh <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px">
 
-:mailbox: Reach me out!
+:mailbox: Reach Me Out!
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/notbeluga)
