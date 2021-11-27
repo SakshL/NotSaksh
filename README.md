@@ -17,6 +17,12 @@
 <br />
 <br />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotSaksh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSaksh&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+## Github Stats  
+
+<div align="center">
+  
+  [![Not's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotSaksh&theme=yeblu)](https://github.com/NotSaksh)
+
+![](https://hit.yhype.me/github/profile?user_id=71689062)
+</div>
 
