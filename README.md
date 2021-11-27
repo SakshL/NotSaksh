@@ -44,7 +44,6 @@
 [Youtube Channel](https://www.youtube.com/channel/UCgFuTFC-Nubq9EdBdBPAOUg)<br>
 > ![Youtube Views](https://img.shields.io/youtube/channel/views/UCgFuTFC-Nubq9EdBdBPAOUg?style=social)
 > ![Youtube Comments](https://img.shields.io/youtube/comments/V8qYfIgg0-k?style=social)
-[Youtube Channel](https://www.youtube.com/channel/UCgFuTFC-Nubq9EdBdBPAOUg)
 
 
 ## Github Stats  
