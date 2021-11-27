@@ -39,8 +39,8 @@
 <br />
 <br />
 
-## YouTube Stats
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+## YouTube
+![Youtube Channel](https://www.youtube.com/channel/UCCSxnxwMXQHTAIjVjaAg7CQ)
 ![Youtube Subcribers](https://img.shields.io/youtube/channel/subscribers/UCCSxnxwMXQHTAIjVjaAg7CQ?style=for-the-badge&logo=youtube)
 
 ## Github Stats  
