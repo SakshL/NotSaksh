@@ -1,10 +1,8 @@
 <!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
 ## Hi! I'm NotSaksh <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px">
-[![Discord](https://img.shields.io/discord/666599184844980224?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/7YtDujvD)
-[![GitHub followers](https://img.shields.io/github/followers/igorkowalczyk?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/NotSaksh?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/majonezexe?color=333&label=Follow&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/NotSaksh)
-[![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Figorkowalczyk.github.io)]()
-
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/notbeluga)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
 
 ### Languages and Tools:
 
