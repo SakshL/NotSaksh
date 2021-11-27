@@ -7,7 +7,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/notbeluga)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=NotSaksh)
-![Youtube Subcribers](https://img.shields.io/youtube/channel/subscribers/UCCSxnxwMXQHTAIjVjaAg7CQ?style=for-the-badge&logo=youtube)
 
 <!-- TODO: Add last video link -->
 
@@ -41,7 +40,7 @@
 <br />
 
 ## YouTube Stats
-![Youtube Channel](https://img.shields.io/youtube/channel/UCCSxnxwMXQHTAIjVjaAg7CQ?style=for-the-badge&logo=youtube)
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 ![Youtube Subcribers](https://img.shields.io/youtube/channel/subscribers/UCCSxnxwMXQHTAIjVjaAg7CQ?style=for-the-badge&logo=youtube)
 
 ## Github Stats  
