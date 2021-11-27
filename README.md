@@ -5,13 +5,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
 [![Doscord Badge](https://img.shields.io/discord/891264732990935041)](https://discord.gg/9WvpMvz8vA)
 
-  <b>⚡ Github Stats</b>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotSaksh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSaksh&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-
-
 ### Languages and Tools:
 
 
@@ -24,6 +17,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
 <br />
+
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotSaksh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSaksh&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 ![NotSaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotSaksh&hide=contribs,prs)
 
