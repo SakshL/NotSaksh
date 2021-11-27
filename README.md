@@ -40,7 +40,6 @@
 <br />
 
 ## YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1iG2QPwDACg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![Youtube Subcribers](https://img.shields.io/youtube/channel/subscribers/UCCSxnxwMXQHTAIjVjaAg7CQ?style=for-the-badge&logo=youtube)
 
 ## Github Stats  
