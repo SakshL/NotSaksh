@@ -1,3 +1,10 @@
+## Hey 👋, I'm [NotSaksh!](https://github.com/Sakshyam6966/)
+
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/notbeluga)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
+[![Doscord Badge](https://img.shields.io/discord/891264732990935041)](https://discord.gg/9WvpMvz8vA)
+
 ### Languages and Tools:
 
 
