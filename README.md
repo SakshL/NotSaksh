@@ -4,6 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/notbeluga)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=NotSaksh)
+<img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCCSxnxwMXQHTAIjVjaAg7CQ?style=for-the-badge&logo=youtube">
 
 ### Languages and Tools:
 
