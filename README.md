@@ -42,9 +42,13 @@
 
 
 ## Github Stats  
-[![NotSaksh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NotSaksh&theme=xcode)](https://git.io/NotSaksh)
+<hr>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=NotSaksh&show_icons=true&theme=dark&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NotSaksh&theme=dark">
+</p>
 
-<div align="center">
-  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSaksh&layout=compact&theme=midnight-purple" alt="NotSaksh" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NotSaksh&show_icons=true&theme=midnight-purple" alt="NotSaksh" /></p><br>
+<hr>
+
+[![NotSaksh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NotSaksh&theme=xcode&line=33cc33)](https://github.com/NotSaksh)
+
