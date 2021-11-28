@@ -1,20 +1,37 @@
-<!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
-## Hi! I'm NotSaksh <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px">
+## Hey 👋, I'm [NotSaksh!](https://github.com/Sakshyam6966/)
 
-:mailbox: Reach Me Out!
-
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://notsaksh.me/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/notbeluga)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
-![Profile View Counter](https://komarev.com/ghpvc/?username=NotSaksh)
+[![Doscord Badge](https://img.shields.io/discord/891264732990935041)](https://discord.gg/9WvpMvz8vA)
 
-<!-- TODO: Add last video link -->
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-- 🔭 I’m currently working at Developing Websites / Apps
-- 🤔 I’m looking for help with Outstanding Coding ideas.
-- 📫 How to reach me: notsakshy@gmail.com
-- 😄 Pronouns: Saksh, NotSaksh, Sakshyam.
-- ⚡ Fun fact: I play games and Love Coding.
+I'm a Student And A Developer 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+
+Like My Work?
+
+<a href="https://www.buymeacoffee.com/notsakshyam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://herokuapp.com/)
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+### Talking about Personal Stuffs:
+
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Sakshyam6966).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/Sakshyam6966/issues/2)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: notsakshyam6968@gmail.com.
+- 📝 &nbsp; Checkout my [Resume](https://github.com/Sakshyam6966/iampavangandhi/blob/master/resume.pdf).
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
 
 <h3 align="left">Connect With Me 🤙</h3>
 <p align="left">
