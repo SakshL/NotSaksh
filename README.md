@@ -49,6 +49,13 @@
 </p>
 
 <hr>
+## 📈 Stats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NotSaksh&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NotSaksh&theme=tokyonight" />
+</p>
+ 
 
 [![NotSaksh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NotSaksh&theme=xcode&line=33cc33)](https://github.com/NotSaksh)
 
