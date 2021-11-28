@@ -1,4 +1,4 @@
-## Hey 👋, I'm [NotSaksh!](https://github.com/Sakshyam6966/)
+## Hey 👋, I'm [NotSaksh!](https://github.com/NotSaksh/)
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://notsaksh.me/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/notbeluga)
