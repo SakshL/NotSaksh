@@ -33,9 +33,7 @@
 <a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="NotSaksh" height="30" width="40" /></a>
 <a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wechat.svg" alt="NotSaksh" height="30" width="40" /></a>
 <a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="NotSaksh" height="30" width="40" /></a>
-<a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/taringa.svg" alt="NotSaksh" height="30" width="40" /></a>
 <a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mix.svg" alt="NotSaksh" height="30" width="40" /></a>
-<a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kiwibox.svg" alt="NotSaksh" height="30" width="40" /></a>
 <a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="NotSaksh" height="30" width="40" /></a>
 
 </p>
