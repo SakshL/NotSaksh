@@ -44,12 +44,11 @@
 ## Github Stats  
 <hr>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=NotSaksh&show_icons=true&theme=dark&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NotSaksh&theme=dark">
+  <img width="40" src = "https://github-readme-stats.vercel.app/api?username=NotSaksh&show_icons=true&theme=dark&line_height=40">
+  <img width="40" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NotSaksh&theme=dark">
 </p>
 
 <hr>
-## 📈 Stats
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NotSaksh&show_icons=true&theme=tokyonight" />
