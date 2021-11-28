@@ -8,6 +8,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=NotSaksh)
 
+[![NotSaksh's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=NotSaksh&theme=xcode)](https://git.io/NotSaksh)
+
+
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at Developing Websites / Apps
