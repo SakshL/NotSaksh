@@ -41,8 +41,8 @@
 ![Youtube Subcribers](https://img.shields.io/youtube/channel/subscribers/UCCSxnxwMXQHTAIjVjaAg7CQ?style=for-the-badge&logo=youtube)
 
 
-## Github Stats  
-<hr>
+## Github Stats  🗿
+
 <p align = "center">
   <img width="48%" src = "https://github-readme-stats.vercel.app/api?username=NotSaksh&show_icons=true&theme=dark&line_height=40">
   <img width="48%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NotSaksh&theme=dark">
