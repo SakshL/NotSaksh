@@ -8,9 +8,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=NotSaksh)
 
-[![NotSaksh's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=NotSaksh&theme=xcode)](https://git.io/NotSaksh)
-
-
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at Developing Websites / Apps
@@ -49,6 +46,8 @@
 <div align="center">
   
   [![Not's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotSaksh&theme=yeblu)](https://github.com/NotSaksh)
+  [![NotSaksh's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=NotSaksh&theme=xcode)](https://git.io/NotSaksh)
+
 
 ![](https://hit.yhype.me/github/profile?user_id=71689062)
 </div>
