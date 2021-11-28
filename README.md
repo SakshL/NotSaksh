@@ -40,7 +40,10 @@
 
 <hr>
 ## Youtube Stats
-![Comments](https://img.shields.io/youtube/comments/V8qYfIgg0-k?style=for-the-badge)
+<div align="center">
+<img alt="YouTube Channel Comments" src="https://img.shields.io/youtube/comments/V8qYfIgg0-k?style=for-the-badge">
+
+</div>
 
 ## Github Stats  🗿
 
