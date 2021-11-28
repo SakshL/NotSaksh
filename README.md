@@ -40,7 +40,7 @@
 
 <hr>
 ## Youtube Stats
-https://img.shields.io/youtube/comments/V8qYfIgg0-k?style=for-the-badge
+![Comments](https://img.shields.io/youtube/comments/V8qYfIgg0-k?style=for-the-badge)
 
 ## Github Stats  🗿
 
