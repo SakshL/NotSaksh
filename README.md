@@ -40,7 +40,7 @@
 
 <hr>
 
-## Youtube Stats
+## Youtube Stats <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGfXBKtmjtqyILLIRuKPgAUcUdLZkBj8o0A&usqp=CAU"
 
 <div align="center">
 <img alt="Subcribers" src="https://img.shields.io/youtube/channel/subscribers/UCgFuTFC-Nubq9EdBdBPAOUg?style=for-the-badge">
