@@ -1,13 +1,13 @@
 ## Hey 👋, I'm [NotSaksh!](https://github.com/Sakshyam6966/)
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://notsaksh.me/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/notbeluga)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
-[![Doscord Badge](https://img.shields.io/discord/891264732990935041)](https://discord.gg/9WvpMvz8vA)
+![Profile View Counter](https://komarev.com/ghpvc/?username=NotSaksh)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I'm a Student And A Developer 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+A passionate Full Stack Software Developer 🚀 Having An Experience Of Building Web And Mobile Applications With JavaScript / Reactjs / Nodejs / React Native And Some Other Cool Libraries And Frameworks.
 
 Like My Work?
 
