@@ -45,7 +45,8 @@
 
 <div align="center">
   
-  [![Not's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotSaksh&theme=yeblu)](https://github.com/NotSaksh)
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-19&layout=compact&theme=midnight-purple" alt="Devesh-19" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Devesh-19&show_icons=true&theme=midnight-purple" alt="Devesh-19" /></p>
   [![NotSaksh's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=NotSaksh&theme=xcode)](https://git.io/NotSaksh)
 
 
