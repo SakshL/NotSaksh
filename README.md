@@ -22,6 +22,11 @@ A passionate Full Stack Software Developer 🚀 Having An Experience Of Building
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
+### Spotify Playing 🎧
+
+[<img src="https://novatorem-two-gilt.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/0oy1awpxed2aa3q7kskofx320)
+
+
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
