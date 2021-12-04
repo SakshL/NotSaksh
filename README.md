@@ -24,7 +24,7 @@ A passionate Full Stack Software Developer 🚀 Having An Experience Of Building
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-two-gilt.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/0oy1awpxed2aa3q7kskofx320)
+[<img src="novatorem-two-gilt.vercel.app" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/0oy1awpxed2aa3q7kskofx320)
 
 
 ### Talking about Personal Stuffs:
