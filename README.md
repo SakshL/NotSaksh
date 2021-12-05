@@ -96,10 +96,11 @@ A passionate Full Stack Software Developer 🚀 Having An Experience Of Building
 | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/bootstrap.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/c.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/css3.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/flask.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/git.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/github.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/html5.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/javascript.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/linuxmint.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/mysql.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/postgresql.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/postman.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/python.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/react.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/sqlite.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/ubuntu.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/visualstudiocode.svg" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
+
+## 2,203 Contributions In The Last Year
+![snake gif](https://github.com/NotSaksh/NotSaksh/blob/output/github-contribution-grid-snake.gif)
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/NotSaksh/Hydrox/pull/3) in [NotSaksh/Hydrox](https://github.com/NotSaksh/Hydrox)
 2. 💪 Opened PR [#3](https://github.com/NotSaksh/Hydrox/pull/3) in [NotSaksh/Hydrox](https://github.com/NotSaksh/Hydrox)
 <!--END_SECTION:activity-->
-
-## 2,203 Contributions In The Last Year
-![snake gif](https://github.com/NotSaksh/NotSaksh/blob/output/github-contribution-grid-snake.gif)
