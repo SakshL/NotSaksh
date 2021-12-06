@@ -101,6 +101,6 @@ A passionate Full Stack Software Developer 🚀 Having An Experience Of Building
 ![snake gif](https://github.com/NotSaksh/NotSaksh/blob/output/github-contribution-grid-snake.gif)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/NotSaksh/Hydrox/pull/3) in [NotSaksh/Hydrox](https://github.com/NotSaksh/Hydrox)
-2. 💪 Opened PR [#3](https://github.com/NotSaksh/Hydrox/pull/3) in [NotSaksh/Hydrox](https://github.com/NotSaksh/Hydrox)
+1. 🗣 Commented on [#5](https://github.com/NotSaksh/Hydrox/issues/5) in [NotSaksh/Hydrox](https://github.com/NotSaksh/Hydrox)
+2. 🎉 Merged PR [#3](https://github.com/NotSaksh/Hydrox/pull/3) in [NotSaksh/Hydrox](https://github.com/NotSaksh/Hydrox)
 <!--END_SECTION:activity-->
